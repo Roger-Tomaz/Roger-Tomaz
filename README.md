@@ -6,6 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roger-tomaz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+ ##
 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -27,4 +28,4 @@
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  
+  ![jetbrains](https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg)
